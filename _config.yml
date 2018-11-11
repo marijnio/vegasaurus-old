@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
+title: Kattengras food blog
+url: "https://marijnwillemse.github.io/"
+baseurl: /kattengras
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
