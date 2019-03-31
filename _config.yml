@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
-google_analytics_key:
+title: Kattengras
+url: "https://marijnwillemse.github.io/"
+baseurl: /kattengras
+google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
 
