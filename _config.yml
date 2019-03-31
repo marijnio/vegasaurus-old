@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Not for the cat food blog
-url: "https://marijnwillemse.github.io/"
-baseurl: /notforthecat
+title: Niet voor de Poes Food Blog
+url: "https://nietvoordepoes.info/"
+baseurl:
 google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Food Blog Niet voor de Poes.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Niet voor de Poes
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://nietvoordepoes.info/
 
 # -----
 # Build
