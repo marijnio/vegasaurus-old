@@ -7,7 +7,7 @@ featured_image: /assets/posts/indische-tempeh-marinade/sliced-tempeh.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 15 minuten
-  cook: 30 minuten
+  cook: 15 minuten
   ingredients_markdown: |-
     **Basis**
 

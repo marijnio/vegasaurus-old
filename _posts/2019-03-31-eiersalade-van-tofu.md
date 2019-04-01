@@ -7,18 +7,18 @@ featured_image: /assets/posts/eiersalade-van-tofu/tofu-op-toast.jpg
 recipe:
   servings: 5 à 6 porties
   prep: 15 minuten
-  cook: 15 minuten
+  cook: 5 minuten
   ingredients_markdown: |-
     **Salade**
 
     * 500 gram stevige tofu
-    * 8 eetlepels plantaardige mayonaise
-    * 2 theelepel kurkuma
-    * 2 theelepel mosterd
+    * 8 el plantaardige mayonaise
+    * 2 tl kurkuma
+    * 2 tl mosterd
     * 1 el kerriepoeder
-    * 2 theelepel bieslook
-    * 1/8 theelepel kala namak of keukenzout
-    * 1 theelepel peper
+    * 2 tl bieslook
+    * 1/8 tl kala namak of keukenzout
+    * 1 tl peper
 
   directions_markdown: |-
     **Salade**
