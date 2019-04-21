@@ -2,7 +2,7 @@
 date: 2019-04-01
 title: Gnocchi met Romige Tomatensaus
 categories:
-  - Comfort food
+  - Diner
 featured_image: /assets/posts/ghocchi-met-romige-tomatensaus/ghocchi-on-potatoes.jpg
 recipe:
   servings: 2 à 3 porties

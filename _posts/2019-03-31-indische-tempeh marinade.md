@@ -3,6 +3,7 @@ date: 2019-03-31
 title: Gebakken Indische Tempeh
 categories:
   - Hartig
+  - Bijgerecht
 featured_image: /assets/posts/indische-tempeh-marinade/sliced-tempeh.jpg
 recipe:
   servings: 2 à 3 porties

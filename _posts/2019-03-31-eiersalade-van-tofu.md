@@ -12,13 +12,16 @@ recipe:
     **Salade**
 
     * 500 gram stevige tofu
-    * 8 el plantaardige mayonaise
+    * 4 el plantaardige mayonaise
+    * 4 el ongezoete soja yoghurt
     * 2 tl kurkuma
     * 2 tl mosterd
     * 1 el kerriepoeder
-    * 2 tl bieslook
-    * 1/8 tl kala namak of keukenzout
+    * 1/2 tl uienpoeder
+    * 2 tl bieslook of peterselie
+    * 1/8 tl kala namak
     * 1 tl peper
+    * 1/2 tl zout
 
   directions_markdown: |-
     **Salade**
