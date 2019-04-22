@@ -12,8 +12,7 @@ recipe:
     **Salade**
 
     * 500 gram stevige tofu
-    * 4 el plantaardige mayonaise
-    * 4 el ongezoete soja yoghurt
+    * 8 el plantaardige mayonaise
     * 2 tl kurkuma
     * 2 tl mosterd
     * 1 el kerriepoeder
@@ -34,3 +33,5 @@ recipe:
 
 ---
 Deze eiersalade is oh zo lekker. En zo op tafel! Door kala namak te gebruiken — zout vervuild met zwavel — komt de typische eiersmaak echt naar voren. Let wel op, gebruik er niet te veel van.
+
+Je kunt de helft van de mayonaise vervangen door 4 el ongezoete sojayoghurt voor een gezondere variant.
