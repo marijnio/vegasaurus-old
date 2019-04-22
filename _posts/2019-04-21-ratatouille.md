@@ -6,8 +6,8 @@ categories:
 featured_image: /assets/posts/ratatouille/ratatouille-top.jpg
 recipe:
   servings: 2 à 3 porties
-  prep: 10 minutes
-  cook: 50 minutes
+  prep: 10 minuten
+  cook: 50 minuten
   ingredients_markdown: |-
     * 2 tenen knoflook
     * 2 rode uien
