@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food Blog Niet voor de Poes.
+description: Een recepten blog, gerund door twee kattenliefhebbers uit Zuid-Nederland.
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Niet voor de Poes
   links:
-    - https://nietvoordepoes.info/
+    - https://github.com/marijnwillemse
 
 # -----
 # Build
@@ -73,7 +73,6 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
