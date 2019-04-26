@@ -21,13 +21,13 @@ recipe:
     * 1/2 tl peper
   directions_markdown: |-
     1. Verwarm de oven voor op 180 °C.
-    1. Snij de ui in ringen en fruit de helft met de knoflook en wat olie in een diepe pan.
-    2. Snijd de paprika in stukken en bak even mee.
-    3. Snijd ondertussen de rest van de groenten in schijven en gooi de uiteindes en overblijfselen bij de pan totdat je ongeveer even grote stapeltjes hebt.
-    4. Kook de groenten tot ze zacht zijn en voeg de tomatenblokjes, het bouillonblokje en de kruiden toe. Kook 5 minuten mee.
-    5. Gebruik de blender of staafmixer om de groenten te mengen.
-    6. Verdeel de groenten om de beurt in cirkels over de saus in de pan. Bestrijk met wat olijfolie, zout en peper.
-    7. Bak de pan zonder deksel in minstens 40 minuten af in de oven.
+    2. Snij de ui in ringen en fruit de helft met de knoflook en wat olie in een diepe pan.
+    3. Snijd de paprika in stukken en bak even mee.
+    4. Snijd ondertussen de rest van de groenten in schijven en gooi de uiteindes en overblijfselen bij de pan totdat je ongeveer even grote stapeltjes hebt.
+    5. Kook de groenten tot ze zacht zijn en voeg de tomatenblokjes, het bouillonblokje en de kruiden toe. Kook 5 minuten mee.
+    6. Gebruik de blender of staafmixer om de groenten te mengen.
+    7. Verdeel de groenten om de beurt in cirkels over de saus in de pan. Bestrijk met wat olijfolie, zout en peper.
+    8. Bak de pan zonder deksel in minstens 40 minuten af in de oven.
 ---
 Het woord ratatouille betekent van oorsprong het _opgooien_ van iets, naar het werpen van groenten in een pan tot een stevige stoof. Pas sinds 1930 staat het voor de typische combi van tomaat, look, courgette, aubergine en Franse kruiden.
 
