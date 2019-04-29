@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-paginate: 10
+paginate: 7
 paginate_path: "/:num/"
 permalink: pretty
 
