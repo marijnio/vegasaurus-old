@@ -48,4 +48,4 @@ recipe:
     9. Laat het bananenbrood helemaal afkoelen in het bakblik (dan zakt hij niet uit).
 
 ---
-Eet veel bananen, bananen zijn gezond. Adam sloeg eva op de blote.....
+Bananenbrood is een van mijn favoriete manieren om rijpe bananen te gebruiken. Dus heb je al een tijd bananen in je fruitschaal liggen die niet meer lekker zijn om zo op te eten? Goede reden om bananenbrood te bakken! Perfect als ontbijt of als tussendoortje bij een kopje thee of koffie. 
