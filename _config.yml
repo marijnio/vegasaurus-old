@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Niet voor de Poes Food Blog
+title: Niet voor de Poes Vegan Recepten
 url: "https://nietvoordepoes.info"
 baseurl:
 google_analytics_key: UA-90698629-2
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Een recepten blog, gerund door twee kattenliefhebbers uit Zuid-Nederland.
+description: Een verzameling van plantaardige recepten door twee kattenliefhebbers uit Zuid-Nederland.
 author:
   name:
   email:
