@@ -2,8 +2,6 @@
 date: 2019-04-29
 title: Vegan bananenbrood met appel
 categories:
-  - Ontbijt
-  - Lunch
   - Baksels
 featured_image: /assets/posts/vegan-bananenbrood-met-appel/bananen.jpg
 recipe:
