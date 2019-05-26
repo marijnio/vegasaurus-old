@@ -19,15 +19,14 @@ recipe:
     - 1/2 tl zwarte peper
     - plantaardige olie
 
-directions_markdown: |-
+  directions_markdown: |-
 
-    1. Haal de tofu uit de verpakking en pers het vocht eruit. Dit kan met een tofupers of bijvoorbeeld door hem in tweeën te snijden, en tussen twee snijplanken te pletten met gewicht voor 10 à 20 minuten.
-    2. Dep de tofu droog en snijd zó dat er uitsluitend langwerpige stukken zijn van niet meer dan 1 cm dik.
-    3. Meng de kruiden en voeg samen met de tofu toe aan een grote gripzak. Sluit de gripzak en gooi een paar keer om.
-    4. Laat een ruime hoeveelheid olie in een grote koekenpan goed heet worden.
-    5. Frituur de tofu op hoge temperatuur voor een paar minuten per kant, of tot ze goed gebruind zijn.
-    6. Haal de tofu uit de pan en laat uitlekken in een zeef of op een paar vellen keukenpapier.
-    7. Serveer in combinatie met gerechten of als snack met een beetje sojasaus en wat lente-ui.
+    1. Haal de tofu uit de verpakking en pers het vocht eruit. Dit kan bijvoorbeeld met een tofupers of gehalveerd tussen twee snijplanken met wat extra gewicht voor 10 à 20 minuten.
+    2. Dep de tofu droog en snijd tot langwerpige stukken van niet meer dan 1 cm dik.
+    3. Meng de kruiden en voeg samen met de tofu toe aan een grote gripzak. Sluit de gripzak en gooi een paar keer voorzichtig om zodat elk stuk bedekt is.
+    4. Laat een ruime hoeveelheid olie in een grote koekenpan goed heet worden en frituur de tofu een paar minuten per kant.
+    5. Haal de tofu uit de pan en laat uitlekken met een zeef of verspreid over een paar vellen keukenpapier.
+    6. Serveer samen met een gerecht of eet als snack met een beetje sojasaus en wat lente-ui.
 
 ---
 
