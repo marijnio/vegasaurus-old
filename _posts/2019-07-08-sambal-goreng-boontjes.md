@@ -35,4 +35,4 @@ Sambal goreng staat voor een gerecht dat begint met sjalotten en sambal met zout
 
 Sperziebonen (buncis in het Maleis) zijn het lekkerst als je ze vers eet. Verwijder de steelaanzet en let op de kooktijd. Die kan verschillen. Je kunt ze natuurlijk ook voorgesneden kopen. Dan heb je het gerecht vrij snel klaar.
 
-Als je dikkere kokoscrème in huis hebt kun je het recept ook aanlengen met water. Serveer over rijst en bedek met iets hartigs zoals nootjes, kipstukjes gebakken met ketjap of [gebakken tempeh](https://nietvoordepoes.info/bijgerecht/2019/03/31/indische-tempeh-marinade/).
+Als je dikkere kokoscrème in huis hebt kun je het recept ook aanlengen met water. Serveer over rijst en bedek met iets hartigs zoals nootjes, kipstukjes gebakken met ketjap of [gebakken tempeh]({{ site.baseurl }}/bijgerecht/2019/03/31/indische-tempeh-marinade/).
