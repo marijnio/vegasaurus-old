@@ -30,6 +30,6 @@ recipe:
     5. Bak de tempeh met wat olie in een koekenpan en gebruik in je gerechten.
 
 ---
-Indische tempeh, gebakken in een koekenpan. Deze marinade gebruikt eenvoudige ingrediënten en zet de frituurpan aan de kant om tijd te besparen. Handig voor als je weinig tijd hebt, maar toch tempeh wilt gebruiken bij een gerecht.
+Indische tempeh, gebakken in een koekenpan. Deze marinade bevat eenvoudige ingrediënten en laat de frituur aan de kant staan. Handig voor als je weinig tijd hebt, en tempeh wilt gebruiken bij een gerecht.
 
-In de koekenpan wordt tempeh niet zo krokant als in de frituurpan. Dat maakt hem niet minder. De basis van tempeh blijft gekenmerkt door zijn stevige bite en een volle smaak.
+In de koekenpan wordt tempeh niet zo krokant als uit de frituur. Dat maakt hem niet minder. De basis van tempeh blijft gekenmerkt door zijn stevige bite en een volle smaak.
