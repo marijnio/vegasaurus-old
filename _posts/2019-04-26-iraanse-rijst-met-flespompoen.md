@@ -1,9 +1,9 @@
 ---
 date: 2019-04-26
-title: Iraanse Rijst met Flespompoen
+title: Iraanse Pilaf met Flespompoen
 categories:
   - Diner
-featured_image: /assets/posts/iraanse-rijst-met-flespompoen/flespompoen.jpg
+featured_image: /assets/posts/iraanse-pilaf-met-flespompoen/iraanse-pilaf.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 10 minuten
@@ -37,3 +37,5 @@ recipe:
     6. Voeg de rijst toe aan de wok en roer met de resterende noten en fruit. Verwijder het laurierblad en breng op smaak met zout en peper.
 ---
 Alle pompoenen komen van nature voor op het westelijk halfrond, uit het noorden van Argentinië in de buurt van de Andes. Ten tijde van de Spaanse invasie werd het in dergelijke gebieden gevonden en is sindsdien de hele wereld over gegaan. In Iran maken ze van de boterige flespompoen een hele feestelijke, fruitige maaltijd van.
+
+Je kunt de rijst ook deels of in zijn geheel vervangen met quinoa. Let goed op de kooktijd. Het is niet erg als de onderkant wat aankoekt. Dat is zelfs een [specialiteit](https://en.wikipedia.org/wiki/Scorched_rice) in de Iraanse keuken! Zorg er wel voor dat het niet verbrand of te smeuïg wordt.

@@ -3,7 +3,7 @@ date: 2019-06-15
 title: Kruidige Linzendal
 categories:
   - Diner
-featured_image: /assets/posts/kruidige-linzendal/lentils.jpg
+featured_image: /assets/posts/kruidige-linzendal/linzendal.jpg
 recipe:
   servings: 2 porties
   prep: 5 minuten
