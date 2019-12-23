@@ -42,7 +42,7 @@ recipe:
 
 ---
 
-In Japan wordt rijst altijd gezien als het belangrijkste ingrediënt. Al het andere — vis vlees of groente — is puur bedoeld als aanvulling op de rijst. Hetzelfde geldt voor sushi, de rijst wordt beschouwd als het belangrijkste onderdeel. Dit is mijn best gevonden recept voor het basisbegrip in de Japanse keuken.
+In Japan wordt rijst gezien als het belangrijkste ingrediënt van de maaltijd. Al het andere — vis vlees of groente — is slechts een aanvulling op de rijst. Hetzelfde geldt bij sushi. De rijst wordt beschouwd als het belangrijkste onderdeel. Dit is mijn best gevonden recept voor het basisbegrip in de Japanse keuken.
 
 Dit recept is grotendeels overgenomen van [Just Hungry](https://justhungry.com/japanese-basics-plain-rice-sushi-rice). Ik heb de ingrediënten en stappen vertaald en versimpeld. De verhouding die zij aanhouden is 1:1,25 rijst per water. Dat komt neer op 625 ml water per 500 gram droge, Japanse rijst. Met het water bedoel ik hier het afgewogen water dat je toevoegt bij stap 3.
 
