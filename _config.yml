@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Niet voor de Poes Vegan Recepten
-url: "https://marijnio.github.io"
-baseurl: /vegan
+title: Vegan Recepten
+url: "https://diplodocus.eu"
+baseurl: 
 google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Een verzameling van plantaardige recepten door twee kattenliefhebbers uit Zuid-Nederland.
+description: Delicious plant-based recipes.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Niet voor de Poes
+  name: Diplodocus
   links:
     - https://github.com/marijnio
 
