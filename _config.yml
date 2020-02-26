@@ -2,8 +2,8 @@
 # Site
 
 title: Niet voor de Poes Vegan Recepten
-url: "https://nietvoordepoes.info"
-baseurl:
+url: "https://marijnio.github.io"
+baseurl: /vegan
 google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
@@ -18,7 +18,7 @@ author:
 social:
   name: Niet voor de Poes
   links:
-    - https://github.com/marijnwillemse
+    - https://github.com/marijnio
 
 # -----
 # Build
