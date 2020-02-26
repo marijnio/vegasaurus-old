@@ -3,7 +3,7 @@ date: 2019-04-29
 title: Vegan bananenbrood met appel
 categories:
   - Baksels
-featured_image: /assets/posts/vegan-bananenbrood-met-appel/bananen.jpg
+featured_image: bananen.jpg
 recipe:
   servings: 10 porties
   prep: 15 minuten

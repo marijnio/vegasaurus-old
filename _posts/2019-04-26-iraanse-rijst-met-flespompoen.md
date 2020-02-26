@@ -3,7 +3,7 @@ date: 2019-04-26
 title: Iraanse Pilaf met Flespompoen
 categories:
   - Diner
-featured_image: /assets/posts/iraanse-pilaf-met-flespompoen/iraanse-pilaf.jpg
+featured_image: iraanse-pilaf.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 10 minuten

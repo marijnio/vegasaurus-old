@@ -3,7 +3,7 @@ date: 2019-05-18
 title: Vegetarische Chili
 categories:
   - Diner
-featured_image: /assets/posts/vegetarische-chili/bonen-met-kruiden.jpg
+featured_image: bonen-met-kruiden.jpg
 recipe:
   servings: 3 porties
   prep: 15 minuten

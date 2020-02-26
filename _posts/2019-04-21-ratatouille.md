@@ -3,7 +3,7 @@ date: 2019-04-21
 title: Ratatouille
 categories:
   - Diner
-featured_image: /assets/posts/ratatouille/ratatouille-top.jpg
+featured_image: ratatouille-top.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 10 minuten
@@ -35,6 +35,6 @@ Deze versie is hoe wij hem het liefst maken: een bodem van kruidige saus met een
 
 Let op: **voor dit recept heb je een blender of staafmixer nodig.**
 
-![Courgettes]({{ site.baseurl }}/assets/posts/ratatouille/courgette.jpg)
+![Courgettes]({{ site.baseurl }}{{ "/assets/posts/ratatouille/courgette.jpg" | relative_url }})
 
 Je hebt al gauw te veel groenten voor bovenop de ratatouille. Dat is geen punt, want daar vul je gewoon de saus mee aan. Zeker de helft van de courgette en aubergine belandt in de saus. Je kan hier dus ook makkelijk je overgebleven groente in kwijt.

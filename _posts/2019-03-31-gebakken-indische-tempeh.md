@@ -3,7 +3,7 @@ date: 2019-03-31
 title: Gebakken Indische Tempeh
 categories:
   - Bijgerecht
-featured_image: /assets/posts/indische-tempeh-marinade/sliced-tempeh.jpg
+featured_image: sliced-tempeh.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 15 minuten

@@ -7,7 +7,7 @@ title: Home
 			{% include post-heading.html post=post %}
 			<div class="image">
 				<a href="{{ post.url | absolute_url }}">
-					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+					<img src="{{ site.baseurl }}/assets/posts/{{ post.title }}/{{ post.featured_image }}" alt="{{ post.title }}">
 				</a>
 			</div>
 

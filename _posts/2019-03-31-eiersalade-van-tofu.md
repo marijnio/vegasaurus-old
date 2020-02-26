@@ -3,7 +3,7 @@ date: 2019-03-31
 title: Eiersalade van Tofu
 categories:
   - Lunch
-featured_image: /assets/posts/eiersalade-van-tofu/tofu-op-toast.jpg
+featured_image: tofu-op-toast.jpg
 recipe:
   servings: 5 à 6 porties
   prep: 15 minuten

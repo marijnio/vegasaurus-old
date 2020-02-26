@@ -3,7 +3,7 @@ date: 2019-12-14
 title: Japanse Rijst
 categories:
   - Diner
-featured_image: /assets/posts/japanse-rijst/japanse-rijst.jpg
+featured_image: japanse-rijst.jpg
 recipe:
   servings: 2 à 3 porties
   prep: 30 minuten
