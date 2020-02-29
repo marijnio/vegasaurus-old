@@ -3,7 +3,7 @@
   "name": "Diplodocus",
   "icons": [
     {
-      "src": "/touch-icon.png",
+      "src": "/images/touch-icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
