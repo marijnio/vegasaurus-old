@@ -2,7 +2,7 @@
 date: 2019-04-21
 title: Ratatouille
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: ratatouille-top.jpg
 recipe:
   servings: 2 à 3 porties

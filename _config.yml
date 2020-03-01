@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Diplodocus Vegan Recipes
-name: Diplodocus
-purpose: Vegan Recipes
-url: "https://vegan.diplodocus.eu"
+title: Vegasaurus
+name: Vegasaurus
+purpose: Vegan Recepten
+url: "https://vegasaurus.nl"
 baseurl: 
 google_analytics_key: UA-90698629-2
 newsletter_action:
@@ -12,13 +12,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Delicious plant-based recipes.
+description: Heerlijke plantaardige recepten.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Diplodocus
+  name: Vegasaurus
   links:
     - https://github.com/marijnio
 

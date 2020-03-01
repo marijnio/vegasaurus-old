@@ -2,7 +2,7 @@
 date: 2019-04-01
 title: Gnocchi met Romige Tomatensaus
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: ghocchi-on-potatoes.jpg
 recipe:
   servings: 2 à 3 porties

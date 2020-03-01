@@ -2,7 +2,7 @@
 date: 2019-05-26
 title: Gebakken Tofu
 categories:
-  - Diner
+  - Vleesvervangers
 featured_image: tofu-en-kruiden.jpg
 recipe:
   servings: 3 porties

@@ -2,7 +2,7 @@
 date: 2019-05-18
 title: Vegetarische Chili
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: bonen-met-kruiden.jpg
 recipe:
   servings: 3 porties

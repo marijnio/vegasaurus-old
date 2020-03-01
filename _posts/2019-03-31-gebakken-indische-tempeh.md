@@ -2,7 +2,7 @@
 date: 2019-03-31
 title: Gebakken Indische Tempeh
 categories:
-  - Bijgerecht
+  - Vleesvervangers
 featured_image: sliced-tempeh.jpg
 recipe:
   servings: 2 à 3 porties

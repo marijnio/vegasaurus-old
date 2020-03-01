@@ -2,7 +2,7 @@
 date: 2019-06-15
 title: Kruidige Linzendal
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: linzendal.jpg
 recipe:
   servings: 2 porties

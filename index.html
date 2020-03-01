@@ -20,13 +20,13 @@ title: Home
 	{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&lt; Newer posts</a>
+				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&lt; Nieuwere recepten</a>
 			{% endif %}
 
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+			<span class="page_number ">{{ paginator.page }} van {{ paginator.total_pages }}</span>
 
 			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &gt;</a>
+				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">oudere recepten &gt;</a>
 			{% endif %}
 		</div>
 	{% endif %}

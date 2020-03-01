@@ -2,7 +2,7 @@
 date: 2019-04-26
 title: Iraanse Pilaf met Flespompoen
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: iraanse-pilaf.jpg
 recipe:
   servings: 2 à 3 porties

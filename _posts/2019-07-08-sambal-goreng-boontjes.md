@@ -2,7 +2,7 @@
 date: 2019-07-08
 title: Sambal Goreng Boontjes
 categories:
-  - Diner
+  - Hoofdgerechten
 featured_image: sambal-goreng-boontjes.jpg
 recipe:
   servings: 2 porties
