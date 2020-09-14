@@ -1,9 +1,9 @@
 ---
 date: 2020-09-14
-title: Seitan met okara
+title: Seitan met havermeel en tofu
 categories:
   - Vleesvervangers
-featured_image: seitan-met-okara.png
+featured_image: seitan-met-havermeel-en-tofu.png
 recipe:
   servings: 15 porties
   prep: 30 minuten
@@ -22,7 +22,7 @@ recipe:
     **Wet mix**
 
     * 400 ml water
-    * 200 g okara
+    * 200 g tofu (of 200 g okara)
     * 2 el sojasaus
     * 1 el plantaardige olie
     * 1 bouillonblokje
@@ -44,10 +44,8 @@ recipe:
 
 ---
 
-Mijn beste seitan recept tot nog toe. Het is vooral erg handig omdat ik er mijn okara in kwijt kan. Je kunt de okara ook prima vervangen door tofu.
+Ik zoek al lang naar een seitan recept dat betrouwbaar is, niet te moeilijk is, en ook goed resultaat levert. Veel recepten op het internet zijn van lage kwaliteit, maar gaandeweg leer je wat de basisprincipes zijn. Een stevig deeg van tarwegluten, maar iets verzacht met eiwitrijke vulstoffen. Die voorkomen dat de seitan keihard wordt. In dit geval gebruik ik havermeel en tofu.
 
 Je wilt het deeg goed kneden, zodat de eiwitten zich voldoende in elkaar frommmelen. Op die manier krijgt het deeg de verende textuur, en ontstaan er zich afgesloten kamertjes tijdens het koken. Dat zorgt uiteindelijk voor de vlezige textuur die we proberen te bereiken.
 
-Het is belangrijk dat je de seitan voldoende tijd geeft om te laten rusten in de koelkast. Op die manier krijgen de gluten de kans om te settelen.
-
-Je kunt vanalles bedenken om met de worst te doen. Je kunt er plakjes van snijden, blokjes, shoarma, of zelfs geschild als doner. Belangrijk is dat je het de kans geeft om te karameliseren in voldoende olie. In het recept zelf gaat eigenlijk maar vrij weinig olie.
+Het is belangrijk dat je de seitan voldoende tijd geeft om te laten rusten in de koelkast. Op die manier krijgen de gluten de kans om te settelen. Je kunt dan vanalles doen met de worst. Je kunt er plakjes van snijden, blokjes, shoarma, of zelfs doner met een schilmesje. Geef de seitan de kans om te karameliseren in voldoende olie. In het recept zelf gaat eigenlijk maar vrij weinig olie.
