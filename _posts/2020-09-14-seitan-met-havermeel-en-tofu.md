@@ -1,6 +1,6 @@
 ---
 date: 2020-09-14
-title: Seitan met havermeel en tofu
+title: Seitan met Havermeel en Tofu
 categories:
   - Vleesvervangers
 featured_image: seitan-met-havermeel-en-tofu.png
