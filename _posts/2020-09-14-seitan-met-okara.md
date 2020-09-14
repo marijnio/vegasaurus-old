@@ -3,7 +3,7 @@ date: 2020-09-14
 title: Seitan met okara
 categories:
   - Vleesvervangers
-featured_image: seitan-met-okara.jpg
+featured_image: seitan-met-okara.png
 recipe:
   servings: 15 porties
   prep: 30 minuten

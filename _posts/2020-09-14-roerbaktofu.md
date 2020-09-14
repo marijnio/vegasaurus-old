@@ -3,7 +3,7 @@ date: 2020-09-14
 title: Roerbaktofu
 categories:
   - Ontbijtjes
-featured_image: roerbaktofu-1.jpg
+featured_image: roerbaktofu.jpg
 recipe:
   servings: 6 porties
   prep: 10 minuten
@@ -13,7 +13,7 @@ recipe:
 
     * 1 kg tofu, uitgelekt
     * 2 uien, gesnipperd
-    * 3 tenen knoflook, fijngehakt
+    * 2 tenen knoflook, fijngehakt
     * 4 el plantaardige olie
 
     **Kruidenmix**
@@ -36,4 +36,6 @@ recipe:
 
 ---
 
-Makkelijk te maken en lekker om toe te voegen aan wraps, broodjes en roerbakgerechten.
+Makkelijk te maken en lekker om toe te voegen aan wraps, broodjes en roerbakgerechten. Gaat goed samen met mayonaise.
+
+Je kunt de kruidenmix ook in grote hoeveelheden maken en bewaren. Dan staat het recept nog sneller op tafel.
