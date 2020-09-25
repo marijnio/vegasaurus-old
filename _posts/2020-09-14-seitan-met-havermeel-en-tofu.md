@@ -3,7 +3,7 @@ date: 2020-09-14
 title: Seitan met Havermeel en Tofu
 categories:
   - Vleesvervangers
-featured_image: seitan-met-havermeel-en-tofu.png
+featured_image: seitan-met-havermeel-en-tofu.jpg
 recipe:
   servings: 15 porties
   prep: 30 minuten
